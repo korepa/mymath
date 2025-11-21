@@ -1,3 +1,3 @@
-module github.com/korepa/mymath v2.0.0
+module github.com/korepa/mymath 
 
 go 1.25.4
